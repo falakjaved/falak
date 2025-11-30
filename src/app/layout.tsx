@@ -8,7 +8,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <header>
           <img src="/pic.jpeg" alt="Falak Pic" />
           <h1>Falak Javed</h1>
-          <p>Hi! I'm Falak — Web Developer & UI Designer. I create modern and fast websites.</p>
+          <p>Hi! I'm Falak — Web Developer & UI-ux Designer. I create modern and fast websites.</p>
         </header>
 
         {/* MAIN CONTENT */}
